@@ -38,4 +38,5 @@ El proyecto tiene la siguiente estructura:
 └── README.md                     # Este archivo, que explica el proyecto
 
 DESARROLLADO POR:
-Estudiantes de la Carrera de mantenimiento de Equipo Pesado La Joya, Facultad Técnica, 1er Año, semestre II/2024
+Estudiantes de la Carrera de Mantenimiento de Equipo Pesado La Joya,
+Facultad Técnica, 1er Año, semestre II/2024
