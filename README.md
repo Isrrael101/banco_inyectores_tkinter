@@ -37,4 +37,4 @@ El proyecto tiene la siguiente estructura:
 ├── main.py                       # Archivo principal para ejecutar la aplicación
 └── README.md                     # Este archivo, que explica el proyecto
 
-DESARROLLADO POR: Estudiantes de la Carrera de mantenimiento de Equipo Pesado La Joya, Facultad Técnica
+DESARROLLADO POR: Estudiantes de la Carrera de mantenimiento de Equipo Pesado La Joya, Facultad Técnica, 1er Año, semestre II/2024
