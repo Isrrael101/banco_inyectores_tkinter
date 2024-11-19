@@ -6,8 +6,8 @@
 #define MAX_CILINDROS 18
 const char* AP_SSID = "BANCO_INYECTORES";
 const char* AP_PASS = "12345678";
-const char* STA_SSID = "FABRICA";
-const char* STA_PASS = "Carol2023@";
+const char* STA_SSID = "";
+const char* STA_PASS = "";
 
 // Definición de pines para los inyectores
 const int INYECTOR_PINS[MAX_CILINDROS] = {
